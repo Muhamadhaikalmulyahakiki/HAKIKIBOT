@@ -11,13 +11,13 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 INFO BOT! :
 🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/kntnbotwa
+🔱 *GITHUB*: https://github.com/Muhamadhaikalmulyahakiki/HAKIKIBOT
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *WHATSAPP* : 085793443822
 
-🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
+🔱 *SCRIPT ORIGINAL BY*: https://github.com/muhamadhaikalmulyahakiki
 
 INFO LAIN! :
 
