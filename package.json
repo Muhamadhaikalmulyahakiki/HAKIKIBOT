@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Muhamadhaikalmulyahakiki/HAKIKIBOT"
+    "url": "git+https://github.com/benisadewa/kntnbotwa"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",https://github.com/benisadewa/kntnbotwa
+  "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Muhamadhaikalmulyahakiki/HAKIKIBOT/issues"
+    "url": "https://github.com/benisadewa/kntnbotwa/issues"
   },
-  "homepage": "https://github.com/Muhamadhaikalmulyahakiki/HAKIKIBOT#readme"
+  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
 }
